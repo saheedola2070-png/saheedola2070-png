@@ -75,7 +75,7 @@
 
 ## Contact
 
-- **LinkedIn:** <[your-linkedin-url](https://www.linkedin.com/in/saheed-olasunkanmi-55179025b/)>  
+- **LinkedIn:** <https://www.linkedin.com/in/saheed-olasunkanmi-55179025b/>  
 - **Email:** <Saheedola2030@gmail.com>  
 - **Portfolio:** <your-portfolio-url>
 
